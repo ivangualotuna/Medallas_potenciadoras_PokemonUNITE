@@ -1,1 +1,3 @@
 # ANÁLISIS DE LAS MEDALLAS POTENCIADORAS DE POKEMON UNITE
+
+Las medallas potenciadoras son
