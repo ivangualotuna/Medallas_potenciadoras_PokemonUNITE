@@ -1,6 +1,6 @@
 # ANÁLISIS DE LAS MEDALLAS POTENCIADORAS DE POKEMON UNITE
 
-Las medallas potenciadoras son accesorios utilizados para aumentar las habilidades de los pokemones en combate. Existen 252 medallas disponibles dentro del catálogo de Pokemon UNITE llamado Medaldex, y cada una representa a un pokemon distinto; por ejemplo: Bulbasaur, Charmander o Squirtle. Estas se clasifican por Nivel (Cobre, Plata y Oro), Color (Azul, Verde, Roja, Amarilla, Blanca, Rosa, Marrón, Negra, Morada y Gris), Habilidad (Ataque, Ataque Especial, Defensa, Defensa Especial, Puntos de Salud, Índice de Golpe Crítico, Velocidad de Desplazamieinto y Tiempo de Recarga) y Efecto (Positivo y Negativo).
+Las medallas potenciadoras son accesorios utilizados para aumentar las habilidades de los pokemones. Dentro del catálogo de Pokémon UNITE (Medaldex) existen 252 medallas que representan a un pokemon de la Pokedex; por ejemplo: Bulbasaur, Charmander o Squirtle. Estas se clasifican por Nivel (Cobre, Plata y Oro), Color (Azul, Verde, Roja, Amarilla, Blanca, Rosa, Marrón, Negra, Morada y Gris), Habilidad (Ataque, Ataque Especial, Defensa, Defensa Especial, Puntos de Salud, Índice de Golpe Crítico, Velocidad de Desplazamieinto y Tiempo de Recarga) y Efecto (Positivo y Negativo).
 
 Todas las medallas empiezan en el Nivel Cobre y a medida que el entrenador pokemon consigue más medallas del mismo pokemon tiene la posibilidad de subir de nivel a Nivel Plata acumulando tres medallas de Nivel Cobre y, posteriormente, a Nivel Oro acumulando tres medallas de Nivel Plata.
 
